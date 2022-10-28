@@ -49,7 +49,7 @@
 
 - `APP_ID`  =  Get this value from [my.telegram.org](https://my.telegram.org)
 - `API_HASH`  =  Get this value from [my.telegram.org](https://my.telegram.org)
-- `𝐄𝐆𝐋BOT_SESSION`  =  Get this by using [https://t.meTheSsGenBot](https://t.me/TheSsGenBot )
+- `𝐄𝐆𝐋BOT_SESSION`  =  Get this by using [https://t.me/TheSsGenBot](https://t.me/TheSsGenBot )
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
@@ -60,9 +60,9 @@
 -----
 ## Credits
 
-- 💖🌚👿 [𝗟𝗘𝗚𝗘𝗡𝗗](https://t.meLEGENDGOD)
+- 💖🌚👿 [𝗟𝗘𝗚𝗘𝗡𝗗](https://t.me/LEGENDGOD)
 
-~ 😈🌚🤍 [HAZERD](https://t.mell_AVI_ll)
+~ 😈🌚🤍 [HAZERD](https://t.me/ll_AVI_ll)
 - 💖🌚💜 [EGLBot](https://github.com/The-eglBot)
 
 ------
