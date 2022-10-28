@@ -1,25 +1,25 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>𝐭𝐡𝐞𝗘𝗚𝗟𝗕𝗢𝗧{🚩}</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph//file/399aadf710f9e2ac186f6.jpg" alt="The-EGLBot">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>🗡️ 𝘵𝘩𝘦 𝘮𝘪𝘨𝘩𝘵𝘺 𝘶𝘴𝘦𝘳𝘣𝘰𝘵✓🗡️ </b>
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>A 𝘴𝘮𝘰𝘰𝘵𝘩& 𝘧𝘢𝘴𝘵𝘦𝘴𝘵 𝘶𝘴𝘦𝘳𝘣𝘰𝘵 𝘣𝘢𝘴𝘦𝘥 𝘰𝘯 𝘵𝘦𝘭𝘦𝘵𝘩𝘰𝘯.</b>
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/The-eglBot/EGLBot?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/The-eglBot/EGLbot?style=social)
 
-![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=social&logo=github)
-![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/The-eglBot/EGLBot?&style=social&logo=github)
+![Branch](https://img.shields.io/badge/Branch-Master-black?&style=social&logo=github)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
 ![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=social&logo=github)
