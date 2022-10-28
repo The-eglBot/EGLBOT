@@ -21,31 +21,21 @@
 ![Repo Size](https://img.shields.io/github/repo-size/The-eglBot/EGLBot?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-Master-black?&style=social&logo=github)
 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/The-eglBot/EGLBot?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?&style=social&logo=hyper)
+![GitHub language count](https://img.shields.io/github/languages/count/The-eglBot/EGLBot?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/its_hellbot)
-
-------
-## Deploy 🚀
-- [![Heroku](https://img.shields.io/badge/HellBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
-
-- [![Railway](https://img.shields.io/badge/HellBot-Deploy%20On%20Railway-black?style=for-the-badge&logo=railway)](#Deploy-on-Railway)
-
-- [![Locally](https://img.shields.io/badge/HellBot-Deploy%20Locally-black?style=for-the-badge&logo=linux)](#Deploy-Locally)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/OwnTerritory)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/ll_EGL_ll)
 
 ------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/pw2jCeM2sN4?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/pw2jCeM2sN4)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/8RRFObBQSMU?label=Tutorial+•+Railway+•&style=social)](https://youtu.be/8RRFObBQSMU)
+<i> 🖤ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🖤</i>
+- [![Heroku](https://img.shields.io/badge/EGLBot-Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku)](#𝐃𝐄𝐏𝐋𝐎𝐘 𝐔𝐒𝐈𝐍𝐆 𝐇𝐄𝐑𝐎𝐊𝐔)
 
-------
-## Deploy To Heroku
+
+---------
+## 🔥🍻𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 🔥🍻
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 - Fork & Star this repo.
@@ -53,46 +43,13 @@
 - NOTE: Click on deploy button from your fork only.
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-------
-## Deploy on Railway
-- Get all the necessary variables and deploy on railway.
-- Every mandatory variables are listed [Here](#Variables).
-- Fork & Star this repo.
-- Some commands might not work properly on railway.
-- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@HellBot_Chat](https://t.me/hellbot_chat). Type `#railway` to get deploy guide.
+----
+----
+## 🤍🤍Variables🤍🤍
 
-------
-## Deploy Locally
-
-- Clone the repo. 
-`git clone https://github.com/The-HellBot/Plugins-T.git`
-
-- Open Cloned Folder.
-`cd Plugins-T`
-
-- Create VirtualEnv.
-`virtualenv -p /usr/bin/python3 venv`
-
-- Activate virtualenv
-`. ./venv/bin/activate`
-
-- Install Requirements.
-`pip install -r requirements.txt`
-
-- Generate HELLBOT SESSION.
-`python hell_string.py`
-
-- Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-
-- Finally Start Hêllẞø† By
-`bash start.sh`
-
-------
-## Variables
-
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `HELLBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `APP_ID`  =  Get this value from [my.telegram.org](https://my.telegram.org)
+- `API_HASH`  =  Get this value from [my.telegram.org](https://my.telegram.org)
+- `𝐄𝐆𝐋BOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
