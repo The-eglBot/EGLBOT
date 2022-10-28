@@ -49,13 +49,13 @@
 
 - `APP_ID`  =  Get this value from [my.telegram.org](https://my.telegram.org)
 - `API_HASH`  =  Get this value from [my.telegram.org](https://my.telegram.org)
-- `𝐄𝐆𝐋BOT_SESSION`  =  Get this by using [https://t.meTheSsGenBot](https://t.meTheSsGenBot )
+- `𝐄𝐆𝐋BOT_SESSION`  =  Get this by using [https://t.meTheSsGenBot](https://t.me/TheSsGenBot )
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
 
 #⚠️𝗗𝗲𝗽𝗹𝗼𝘆 𝗕𝗼𝘁 𝗮𝘁 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝗿𝗶𝘀𝗸 
-𝘄𝗲 𝗮𝗿𝗲 𝗻𝗼𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝗰𝗶𝗯𝗹𝗲 𝗳𝗼𝗿 𝗮𝗻𝘆 𝘁𝘆𝗽𝗲 𝗼𝗳 𝗮 𝗯𝗮𝗻 !!!!⚠️
+𝘄𝗲 𝗮𝗿𝗲 𝗻𝗼𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗹𝗲 𝗳𝗼𝗿 𝗮𝗻𝘆 𝘁𝘆𝗽𝗲 𝗼𝗳 𝗮 𝗜𝗗 𝗯𝗮𝗻 !!!!⚠️
 
 -----
 ## Credits
