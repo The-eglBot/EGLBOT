@@ -49,100 +49,20 @@
 
 - `APP_ID`  =  Get this value from [my.telegram.org](https://my.telegram.org)
 - `API_HASH`  =  Get this value from [my.telegram.org](https://my.telegram.org)
-- `𝐄𝐆𝐋BOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `𝐄𝐆𝐋BOT_SESSION`  =  Get this by using [https://t.meTheSsGenBot](https://t.meTheSsGenBot )
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
 
-------
-## HellBot Session
+#⚠️𝗗𝗲𝗽𝗹𝗼𝘆 𝗕𝗼𝘁 𝗮𝘁 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝗿𝗶𝘀𝗸 
+𝘄𝗲 𝗮𝗿𝗲 𝗻𝗼𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝗰𝗶𝗯𝗹𝗲 𝗳𝗼𝗿 𝗮𝗻𝘆 𝘁𝘆𝗽𝗲 𝗼𝗳 𝗮 𝗯𝗮𝗻 !!!!⚠️
 
-### Repl
-- Open Repl Link.
-- Click on Green Play Button.
-- Wait for requirements to finish.
-- Do human verification.
-- Select the type of session.
-    - Telethon
-        - Fill API ID, API HASH, Phone number (with country code).
-        - Paste the OTP received on Telegram.
-        - If You have Enabled 2-Step Verification then fill your password.
-        - Your Telethon Session Will be saved in your Telegram Saved Message.
-    - Pyrogram
-        - Fill API ID, API HASH, Phone number (with country code).
-        - Paste the OTP received on Telegram.
-        - If You have Enabled 2-Step Verification then fill your password.
-        - Your Pyrogram Session will be saved in your Telegram Saved Message.
-    - Instagram
-        - Fill instagram username and password.
-        - If asked for OTP check yout email and fill up the OTP from there.
-        - Your Instagram Session will be displayed on the screen.
-        - Copy it carefully and Do Not Share With Anyone!
-        - Using a fake account is recommended.
-
-- [![Replit](https://img.shields.io/badge/HellBot-Run%20On%20ReplIT-black?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
-
-### Terminal
-- Open the terminal.
-- Paste this code.
-
-`pkg install python wget -y && pip install telethon && pip install pyrogram && pip install instagrapi && wget https://raw.githubusercontent.com/The-HellBot/HellBot/master/hell_string.py && python3 hell_string.py`
-
-- Select the type of session.
-    - Telethon
-        - Fill API ID, API HASH, Phone number (with country code).
-        - Paste the OTP received on Telegram.
-        - If You have Enabled 2-Step Verification then fill your password.
-        - Your Telethon Session Will be saved in your Telegram Saved Message.
-    - Pyrogram
-        - Fill API ID, API HASH, Phone number (with country code).
-        - Paste the OTP received on Telegram.
-        - If You have Enabled 2-Step Verification then fill your password.
-        - Your Pyrogram Session will be saved in your Telegram Saved Message.
-    - Instagram
-        - Fill instagram username and password.
-        - If asked for OTP check yout email and fill up the OTP from there.
-        - Your Instagram Session will be displayed on the screen.
-        - Copy it carefully and Do Not Share With Anyone!
-        - Using a fake account is recommended.
-- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-
-------
-## Disclaimer
-- We won't be responsible for any kind of ban due to this bot.
-- HellBot was made for fun purpose and to make group management easier.
-- It's your concern if you spam and gets your account banned.
-- Also, Forks won't be entertained.
-- If you fork this repo and edit plugins, it's your concern for further updates.
-- Forking Repo is fine. But if you edit something we will not provide any help.
-- In short, Fork At Your Own Risk.
-
-------
-# License
-
-<p align="center">
-    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="HellBot License">
-</p>
-
-<h4 align="center">
-    Copyright (C) 2022 <a href="https://github.com/The-HellBot">The-HellBot</a>
-</h4>
-
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-------
+-----
 ## Credits
 
-- 💖 All the Dependencies
-- 💖 [Team HellBot](https://github.com/The-HellBot)
+- 💖🌚👿 [𝗟𝗘𝗚𝗘𝗡𝗗](https://t.meLEGENDGOD)
+
+~ 😈🌚🤍 [HAZERD](https://t.mell_AVI_ll)
+- 💖🌚💜 [EGLBot](https://github.com/The-eglBot)
 
 ------
