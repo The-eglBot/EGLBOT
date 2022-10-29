@@ -8,14 +8,14 @@ from telethon.sync import TelegramClient
 
 
 def main():
-    print("T E A M    H E L L B O T   ! !")
-    print("Hello!! Welcome to HellBot Session Generator\n")
+    print("T H E E G L  B O T T E A M  ! !")
+    print("Hello!! Welcome to EGLBot Session Generator\n")
     print("Human Verification Required !!")
     while True:
         verify = int(randint(1, 50))
         okvai = int(input(f"Enter {verify} to continue: "))
         if okvai == verify:
-            print("\nChoose the string session type: \n1. HellBot (Telethon) \n2. Music Bot (Pyrogram) \n3. Instagram Session")
+            print("\nChoose the string session type: \n1. EGLBot (Telethon) \n2. Music Bot (Pyrogram) \n3.")
             while True:
                 library = input("\nYour Choice: ")
                 if library == "1":
@@ -38,40 +38,24 @@ def generate_pyro_session():
     print("Pyrogram Session for Music Bot!")
     APP_ID = int(input("\nEnter APP ID here: "))
     API_HASH = input("\nEnter API HASH here: ")
-    with PClient(':memory:', api_id=APP_ID, api_hash=API_HASH) as hellbot:
-        print("\nYour HellBot Session Is sent in your Telegram Saved Messages.")
-        hellbot.send_message(
+    with PClient(':memory:', api_id=APP_ID, api_hash=API_HASH) as EGLbot:
+        print("\nYour EGLBot Session Is sent in your Telegram Saved Messages.")
+        eglbot.send_message(
             "me",
-            f"#HELLBOT_MUSIC #HELLBOT_SESSION #PYROGRAM\n\n`{hellbot.export_session_string()}`",
+            f"#EGLBOT_MUSIC #EGLBOT_SESSION #PYROGRAM\n\n`{hellbot.export_session_string()}`",
         )
 
 
 def generate_telethon_session():
-    print("\nTelethon Session For HellBot!")
+    print("\nTelethon Session For eglBot!")
     APP_ID = int(input("\nEnter APP ID here: "))
     API_HASH = input("\nEnter API HASH here: ")
-    with TelegramClient(StringSession(), APP_ID, API_HASH) as hellbot:
-        print("\nYour HellBot Session Is sent in your Telegram Saved Messages.")
+    with TelegramClient(StringSession(), APP_ID, API_HASH) as eglbot:
+        print("\nYour EGLBot Session Is sent in your Telegram Saved Messages.")
         hellbot.send_message(
             "me",
-            f"#HELLBOT #HELLBOT_SESSION #TELETHON \n\n`{hellbot.session.save()}`",
+            f"#EGLBOT #EGLBOT_SESSION #TELETHON \n\n`{eglbot.session.save()}`",
         )
-
-
-def generate_insta_session():
-    print("Instagram Session For HellBot!")
-    cl = IClient()
-    username = input("Enter your Instagram Username: ")
-    password = input("Enter your Instagram Password: ")
-    try:
-        cl.login(username, password)
-        xyz =  cl.get_settings()
-        sessionid = xyz['authorization_data']['sessionid']
-        print(f"Your Instagram Session is: \n>>> {sessionid}")
-        print("\nCopy it from here and remember not to share it with anyone!")
-    except (ChallengeRequired, TwoFactorRequired, Exception) as e:
-        print(e)
-
 
 def challenge_code(username, choice):
     while True:
