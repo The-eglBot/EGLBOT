@@ -1,7 +1,7 @@
-# 🚀 Hêllẞø† α - 0.2
+# 🔥𝔼𝔾𝕃𝔹𝕆𝕋 α - 0.2
 
 - Fixed Pmpermit.
-- Added Video and Gifs support in Inline Alive or `.hell` command.
+- Added Video and Gifs support in Inline Alive or `.egl` command.
 - Improved Help Menu.
 - Fixed Climate Module.
 - Fixed Block, Approve, Disapprove Commands to work in groups too.
